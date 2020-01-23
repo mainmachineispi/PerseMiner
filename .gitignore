@@ -7,8 +7,8 @@
 # Files for the ART/Dalvik VM
 *.dex
 
-# Java class files
-*.class
+# Java class files, solely here to torture me trying to make a j a v a app for android
+# *.class
 
 # Generated files
 bin/
