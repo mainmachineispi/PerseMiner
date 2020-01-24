@@ -83,3 +83,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+hs_err_pid*
+.mtj.tmp/
+*.ctxt
